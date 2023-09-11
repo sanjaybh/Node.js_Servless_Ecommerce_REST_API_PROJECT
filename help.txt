@@ -1,0 +1,13 @@
+Use below tokens as the environment variables
+ACCESS_TOKEN_SECRET = <hello>
+STRIPE_KEY = <stripe key from stripe website>
+
+Applications used
+---------------------
+jwt token
+stripe
+github
+
+Resource
+-----------
+https://www.youtube.com/watch?v=FKqtiO-0fZU
